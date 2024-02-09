@@ -1,1 +1,3 @@
-print("First attempt")
+word = "QWERTY"
+for letter in word:
+    print(letter)
